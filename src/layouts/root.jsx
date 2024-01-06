@@ -1,7 +1,7 @@
 import { Outlet, NavLink, Link } from "react-router-dom";
-import QuickenIcon from "../assets/quicken.svg?react  ";
-import GeminiIcon from "../assets/gemini-dollar-gusd-logo.svg?react ";
-import ChevronRightIcon from "../assets/chevron-right.svg?react ";
+import {ReactComponent as QuickenIcon} from "../assets/quicken.svg";
+import {ReactComponent as GeminiIcon} from "../assets/gemini-dollar-gusd-logo.svg";
+import {ReactComponent as ChevronRightIcon} from "../assets/chevron-right.svg";
 
 export default function Root() {
   return (

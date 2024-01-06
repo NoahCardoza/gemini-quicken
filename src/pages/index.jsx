@@ -1,4 +1,4 @@
-import UploadIcon from "../assets/upload.svg?react";
+import {ReactComponent as UploadIcon} from "../assets/upload.svg";
 import Papa from "papaparse";
 
 
